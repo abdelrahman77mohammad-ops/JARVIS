@@ -1,0 +1,65 @@
+{
+  "يوتيوب|youtube|يوتوب": {
+    "url": "https://www.youtube.com"
+  },
+  "جوجل|google|البحث": {
+    "url": "https://www.google.com"
+  },
+  "تيمز|teams|الميتنج|الاجتماع": {
+    "url": "https://teams.microsoft.com"
+  },
+  "واتساب|whatsapp|الواتس": {
+    "url": "https://web.whatsapp.com"
+  },
+  "جيميل|gmail|الايميل|الإيميل|الميل": {
+    "url": "https://mail.google.com"
+  },
+  "فيسبوك|facebook|الفيس": {
+    "url": "https://www.facebook.com"
+  },
+  "تويتر|twitter|اكس": {
+    "url": "https://twitter.com"
+  },
+  "انستجرام|instagram|انستا": {
+    "url": "https://www.instagram.com"
+  },
+  "شات جي بي تي|chatgpt|جي بي تي": {
+    "url": "https://chat.openai.com"
+  },
+  "جوجل كلاسروم|classroom|الكلاسروم": {
+    "url": "https://classroom.google.com"
+  },
+  "الدرايف|drive|جوجل درايف": {
+    "url": "https://drive.google.com"
+  },
+  "الكروم|chrome|المتصفح|البراوزر": {
+    "cmd": "start chrome"
+  },
+  "الكالكوليتر|الحاسبة|calculator|calc": {
+    "cmd": "calc"
+  },
+  "المفكرة|نوتباد|notepad": {
+    "cmd": "notepad"
+  },
+  "البينت|الرسام|paint": {
+    "cmd": "mspaint"
+  },
+  "الاعدادات|الإعدادات|settings": {
+    "cmd": "start ms-settings:"
+  },
+  "الملفات|المستكشف|explorer|الفايلات": {
+    "cmd": "explorer"
+  },
+  "الوورد|word": {
+    "cmd": "start winword"
+  },
+  "الاكسيل|excel": {
+    "cmd": "start excel"
+  },
+  "البوربوينت|powerpoint|باوربوينت": {
+    "cmd": "start powerpnt"
+  },
+  "الفيجوال|vs code|كود|vscode": {
+    "cmd": "code"
+  }
+}
